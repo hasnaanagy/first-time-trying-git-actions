@@ -19,5 +19,5 @@ jobs:
       - name: 'Testing Github action'
         run: pwd
 
-      - name: 'Testing Printing'
-        run: echo Hasnaa  
+      - name: 'Printing folder content'
+        run: ls 
